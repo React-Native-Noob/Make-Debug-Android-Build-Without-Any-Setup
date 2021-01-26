@@ -1,4 +1,4 @@
-# Make-Debug-Android-Build-Without-Any-Setup
+# Make-Debug-Release-Android-Build-Without-Any-Setup
 
 ## Create Debug Build :-
 ```
